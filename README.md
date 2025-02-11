@@ -1,6 +1,6 @@
 # SP500 Portfolio Forecasting
 
-This project was developed for the "Artificial Intelligence and Data Science Laboratory" course and aims to **forecast future stock prices of the S&P500 index ** utilizing machine learning algorithms **and applying optimization methods to select the best set of stocks for daily investment**. First Semester of the Third Year of the Bachelor's Degree in Artificial Intelligence and Data Science.
+This project was developed for the "Artificial Intelligence and Data Science Laboratory" course and aims to **forecast future stock prices of the S&P500 index** utilizing machine learning algorithms **and applying optimization methods to select the best set of stocks for daily investment**. First Semester of the Third Year of the Bachelor's Degree in Artificial Intelligence and Data Science.
 
 <br>
 
@@ -53,6 +53,8 @@ After creating the temporal features, we **divide the dataset by activity sector
 
 - Random Forest
 - LSTM
+
+<br>
 
 ### Portfolio
 To create the portfolios we used Monte Carlo, as a technique that allows simulating different market scenarios and evaluating the performance of different combinations of assets. 
