@@ -85,7 +85,7 @@ We use the following constraints:
 - Lab_IACD_Project2.pdf ➡️Project statement
 - T6_LabIACD_Project2.pdf ➡️ More information on how to develop the project;
 - notebook.ipynb ➡️ The project in jupyter notebook format;
-- onter_dados.py ➡️The code used to extract the Yahoo Finance data.
+- obter_dados.py ➡️The code used to extract the Yahoo Finance data.
 
 <br>
 
